@@ -143,11 +143,6 @@ background-color: black;
     cursor: pointer;
     font-size: 14px;
     transition: .2s ease all;
-    
-flex-direction: row;
-align-items: flex-end;
-justify-content: space-between;  
-
 
 }
 .botao-carousel-sinopse:hover{
